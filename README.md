@@ -1,4 +1,4 @@
 # book_critic
-A book recommender system based on NLTK and Beautifulsoup4.
+A text summariser based on NLTK.
 
 [![Build Status](https://travis-ci.org/vaibhavsingh1993/book_critic.svg?branch=master)](https://travis-ci.org/vaibhavsingh1993/book_critic)
